@@ -8,5 +8,7 @@ This page is hosted on GitHub Pages and will run on [Jekyll](https://jekyllrb.co
 This is our first web-site outside of wordpress, so we are still noobies, have some patience! 
 
 ### Maps
-[Check out our first attempt to do interactive mapping!!](17-56cl.github.io/chile_regiones.html)
+[1. map: Chile Presidential Election 2013](17-56cl.github.io/chile_regiones.html)
+
+[2. map: Chile Cook Partisan Voting Index]( 17-56cl.github.io/Cook_Index.html )
 

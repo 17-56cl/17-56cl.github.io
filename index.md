@@ -10,5 +10,5 @@ This is our first web-site outside of wordpress, so we are still noobies, have s
 ### Maps
 [1. map: Chile Presidential Election 2013](17-56cl.github.io/chile_regiones.html)
 
-[2. map: Chile Cook Partisan Voting Index](17-56cl.github.io/Cook_Index.html)
+[2. map: Chile Cook Partisan Voting Index]( 17-56cl.github.io/Cook_Index.html )
 
